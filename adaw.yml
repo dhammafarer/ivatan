@@ -1,0 +1,218 @@
+words: 
+  - ivatan: adaw
+    english: love
+    root: adaw
+    entry: adaw
+    part: n
+    synonym: akey
+    antonym: ipsuk
+    example:
+
+  - ivatan: maddadawen
+    english: loving
+    root: adaw
+    entry: adaw
+    part: v
+    example:
+      ivatan: Uyud a maddadawen si apu vakes.
+      english: My grandmother is loving to everyone.
+
+  - ivatan: adaddawen
+    english: show love
+    root: adaw
+    entry: adaw
+    part: v
+    example:
+
+  - ivatan: madaw
+    english: fall in love
+    root: adaw
+    entry: adaw
+    part: v
+    example:
+      ivatan: Sira u madaw nu Dyus am mayanung kapavuya da nya du mapya a dadakay da.
+      english: Those who love God should show it in their behavior.
+
+  - ivatan: makaddadaw
+    english: lovely, lovable
+    root: adaw
+    entry: adaw
+    part: adj
+    example:
+
+  - ivatan: maychaddaw
+    english: in love with each other
+    root: adaw
+    entry: adaw
+    part: v
+    example:
+      ivatan: Maychaddaw sa u daddwa aya ka kahenakan.
+      english: The young man and woman are in love.
+
+  - ivatan: paddawen
+    english: make someone love
+    root: adaw
+    entry: adaw
+    part: v
+    example:
+
+  - ivatan: akey
+    english: like, desire
+    root: akey
+    entry: adaw
+    synonym: adaw
+    antonym: askeh
+    part: v
+    example:
+
+  - ivatan: ichakey
+    english: like, desire
+    root: akey
+    entry: adaw
+    synonym: makey
+    part: v
+    example:
+      ivatan: Ichakey ni ama da u u kapakavus na su kapachinanaw naw.
+      english: Their father likes him to finish his studies.
+
+  - ivatan: ipakey
+    english: something to cause one to like or desire
+    root: akey
+    entry: adaw
+    part: n
+    example:
+
+  - ivatan: mayakey
+    english: like each other (physical sense)
+    root: akey
+    entry: adaw
+    part: v
+    example:
+      ivatan: Mayakey sa anu u kahenakan aya.
+      english: The young man and woman seem to like each other.
+
+  - ivatan: pakekeyen
+    english: encourage
+    root: akey
+    entry: adaw
+    part: v
+    example:
+      ivatan: Taytu da pakekeyen a maymamadri.
+      english: They are encouraging her to become a nun.
+
+  - ivatan: askeh
+    english: dislike
+    root: askeh
+    entry: adaw
+    part: v
+    synonym: ipsuk
+    antonym: akey
+    example:
+
+  - ivatan: ipaskeskeh
+    english: something to cause dislike
+    root: askeh
+    entry: adaw
+    part: n
+    example:
+
+  - ivatan: maskeh
+    english: dislike, refuse
+    root: askeh
+    entry: adaw
+    part: v
+    synonym: ichaskeh
+    example:
+      ivatan: Maskeh ka ava.
+      english: Do not refuse.
+
+  - ivatan: maskeskeken
+    english: usually dislikes
+    root: askeh
+    entry: adaw
+    part: v
+    example:
+      ivatan: Masadit a sisirinyen ya ta maskeskehen.
+      english: She is difficult to talk to because she used to refuse.
+
+  - ivatan: paskeskehen
+    english: discourage, dissuade
+    root: askeh
+    entry: adaw
+    part: v
+    antonym: pakekeyen 
+    example:
+      ivatan: Paskeskehen da a mangavang.
+      english: They are discouraging her from going to Manila.
+
+  - ivatan: ipsuk
+    english: hate
+    root: ipsuk
+    entry: adaw
+    part: v
+    synonym: aket
+    example:
+      ivatan: Uyud na ipsuk u kapachirayay na aya dya.
+      english: She hates his walking with her.
+
+  - ivatan: makapsuksuk
+    english: irritating
+    root: ipsuk
+    entry: adaw
+    part: adj
+    example:
+      ivatan: Makapsupsuk a madnegy u tugtug du vahay da.
+      english: The music heard from their house irritates me. 
+
+  - ivatan: nipsuk
+    english: irritated, angered
+    root: ipsuk
+    entry: adaw
+    part: v
+    example:
+      ivatan: Nu nipsuk ku am nu vinata na.
+      english: I was irritated by what he said.
+
+  - ivatan: aket
+    english: anger
+    root: aket
+    entry: adaw
+    part: n
+    example:
+
+  - ivatan: maket
+    english: be angry
+    root: aket
+    entry: adaw
+    part: v
+    example:
+      ivatan: Makapepsek kamu tapyan di maket u maistra aya.
+      english: Behave yourself so that the teacher won't get angry.
+
+  - ivatan: maket
+    english: be angry
+    root: aket
+    entry: adaw
+    part: v
+    example:
+
+  - ivatan: ichaket
+    english: cause of anger
+    root: aket
+    entry: adaw
+    part: n
+    example:
+
+  - ivatan: makeketen
+    english: easily angered
+    root: aket
+    entry: adaw
+    part: v
+    example:
+
+  - ivatan: maychakuvut
+    english: marry
+    root: 
+    entry: adaw
+    part: v
+    example:

@@ -1,0 +1,170 @@
+words: 
+  - ivatan: abhes
+    english: stop
+    root: abhes
+    entry: abhes
+    part: v
+    synonym: 
+    antonym: sitnan
+    example:
+
+  - ivatan: pabhesen
+    english: stop someone
+    root: abhes
+    entry: abhes
+    part: v
+    example:
+
+  - ivatan: ibhes
+    english: stop
+    root: abhes
+    entry: abhes
+    part: v
+    synonym: umhes
+    example:
+
+  - ivatan: umhes
+    english: stop
+    root: abhes
+    entry: abhes
+    part: v
+    synonym: ibhes
+    example:
+      ivatan: Umhes kamu na mayayam as sumitnan kamu na machinanawu.
+      english: Stop playing and start studying.
+
+  - ivatan: pabhebhesen
+    english: stop every so often
+    root: abhes
+    entry: abhes
+    part: v
+    example:
+      ivatan: Pabhebhesen mu kapangheneb mu ta kakaan pava syaw.
+      english: Stop once in a while your sewing because that cannot yet be eaten.
+
+  - ivatan: ipabhes
+    english: used for stopping
+    root: abhes
+    entry: abhes
+    part: n
+    example: 
+      ivatan: Nu ipabhes su mutdeh an tumanyis am nu katuruh dya su yayam na.
+      english: To stop a child from crying give him toys.
+
+  - ivatan: kavus
+    english: end
+    root: kavus
+    entry: abhes
+    part: v
+    example: 
+
+  - ivatan: kumavus
+    english: finish
+    root: kavus
+    entry: abhes
+    part: v
+    example: 
+      ivatan: Kumavus aku andelak.
+      english: I will finish tomorrow.
+
+  - ivatan: pinakavus
+    english: finished
+    root: kavus
+    entry: abhes
+    part: v
+    example: 
+      ivatan: Pinakavus ku tulas ku du avak nu ahep.
+      english: I finished my letter at midnight.
+
+  - ivatan: kavusan
+    english: place where to finish
+    root: kavus
+    entry: abhes
+    part: n
+    example: 
+      ivatan: Pinakavus ku tulas ku du avak nu ahep.
+      english: I finished my letter at midnight.
+
+  - ivatan: pakavusan
+    english: animal used for celebration at the end of prayers for the dead
+    root: kavus
+    entry: abhes
+    part: n
+    example: 
+
+  - ivatan: nahah
+    english: rest
+    root: nahah
+    entry: abhes
+    part: v
+    example: 
+
+  - ivatan: maynahah
+    english: stop the activity, rest
+    root: nahah
+    entry: abhes
+    part: v
+    example: 
+      ivatan: Maynahah sa ava a maydasal.
+      english: They do not stop praying.
+
+  - ivatan: paynahahan
+    english: place for resting
+    root: nahah
+    entry: abhes
+    part: n
+    example: 
+      ivatan: Manahebneb a paynahahan u avung nu kayu.
+      english: The shade of a tree is a cool place to rest.
+
+  - ivatan: nahaynahaah
+    english: was able to rest
+    root: nahah
+    entry: abhes
+    part: v
+    example: 
+      ivatan: Nakaynahaah dana u kasidung taya.
+      english: Our helper has been able to rest.
+
+  - ivatan: para
+    english: stop a vehicle
+    root: para
+    entry: abhes
+    part: v
+    example: 
+
+  - ivatan: paparahen
+    english: stop a vehicle
+    root: para
+    entry: abhes
+    part: v
+    example: 
+      ivatan: Paparahen mu ta mahay tana.
+      english: Stop the vehicle because we are now late.
+
+  - ivatan: napapara
+    english: stopped a vehicle
+    root: para
+    entry: abhes
+    part: v
+    example: 
+      ivatan: Napapara su sakayan.
+      english: He stopped the vehicle.
+
+  - ivatan: sitnan
+    english: begin, commence
+    root: sitnan
+    entry: abhes
+    antonym: abhes
+    part: v
+    example: 
+
+  - ivatan: sumitnan
+    english: begin, commence
+    root: sitnan
+    entry: abhes
+    antonym: abhes
+    part: v
+    example: 
+      ivatan: Yukayin mu na sa tapyan sumitnan da na sa.
+      english: Wake them up so that they can start now.

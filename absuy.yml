@@ -1,0 +1,115 @@
+words: 
+  - ivatan: absuy
+    english: full, satiate
+    root: absuy
+    entry: absuy
+    part: adj
+    synonym: 
+    antonym: apteng
+    example:
+
+  - ivatan: mabsuy
+    english: full stomach, satiate
+    root: absuy
+    entry: absuy
+    part: adj
+    example:
+      ivatan: Mabsuy u bagu namen.
+      english: Our pig is full.
+
+  - ivatan: nabsubsuy
+    english: very full stomach
+    root: absuy
+    entry: absuy
+    part: adj
+    example:
+
+  - ivatan: maychabsuuy
+    english: period of plenty
+    root: absuy
+    entry: absuy
+    part: n
+    example:
+      ivatan: Maychabsuuy ta an abu anyin.
+      english: We have a period of plenty when there is no typhoon.
+
+  - ivatan: absuyen
+    english: make one full in stomach
+    root: absuy
+    entry: absuy
+    part: v
+    example:
+      ivatan: Absuyen mu u manuk tapyan mutchuy.
+      english: Feed the chicken well so that it will lay eggs.
+
+  - ivatan: makapangtu
+    english: be industrious
+    root: 
+    entry: absuy
+    part: v
+    example:
+
+  - ivatan: manyinen
+    english: be thrifty
+    root: 
+    entry: absuy
+    part: adj
+    example:
+
+  - ivatan: mapabinbin
+    english: set aside; conserve
+    root: 
+    entry: absuy
+    part: v
+    example:
+
+  - ivatan: maymuha
+    english: plant crops
+    root: 
+    entry: absuy
+    part: v
+    example:
+
+  - ivatan: apteng
+    english: hunger
+    root: apteng
+    entry: absuy
+    part: adj
+    antonym: absuy
+    example:
+
+  - ivatan: mapteng
+    english: hungry
+    root: apteng
+    entry: absuy
+    part: adj
+    example:
+      ivatan: Mapteng ta ava an mapapangtu ta.
+      english: We will not suffer hunger if we are industrious.
+
+  - ivatan: maychapteng
+    english: famine
+    root: apteng
+    entry: absuy
+    part: n
+    example:
+      ivatan: Maychaptengen u Ivatan ta nanyin.
+      english: There is famine in Batanes due to the typhoon.
+
+  - ivatan: mapteptengen
+    english: often hungry
+    root: apteng
+    entry: absuy
+    part: adj
+    example:
+      ivatan: Mapteptengen ta maganyit.
+      english: He often gets hungry because he is sick.
+
+  - ivatan: aptengen
+    english: make hungry
+    root: apteng
+    entry: absuy
+    part: adj
+    example:
+      ivatan: Mapteptengen ta maganyit.
+      english: He often gets hungry because he is sick.
