@@ -1,26 +1,70 @@
-prefixes:
-  - entry: um- 
-    role: state
+cases:
+  - role: state
     symbol: S
+    entry: um- 
     meaning: condition or state of affairs of the potential noun phrase
 
-  - entry: ma- 
-    role: agentive
+  - role: agent
     symbol: A
+    entry: ma- 
     meaning: the agent which is a typically animate doer of an action
 
-  - entry: ka- 
-    role: abilitive
-    symbol: Ab
-    meaning: can be subject to action
+  - role: object
+    symbol: O
+    entry: 
+    meaning: the entity towards which action is directed 
 
-suffixes:
+  - role: instrument
+    symbol: I
+    entry: 
+    meaning: 
+
+  - role: benefactive
+    symbol: B
+    entry: 
+    meaning: 
+
+  - role: causative
+    symbol: K
+    entry: 
+    meaning: 
+
+  - role: comitative
+    symbol: C
+    entry: 
+    meaning: 
+
+  - role: locative
+    symbol: L
+    entry: 
+    meaning: 
+
+  - role: directional
+    symbol: D
+    entry: 
+    meaning: 
+
+  - role: unidirectional
+    symbol: un
+    entry: 
+    meaning: 
+
+  - role: reciprocal
+    symbol: rec
+    entry: 
+    meaning: 
+
+  - role: reflexive
+    symbol: ref
+    entry: 
+    meaning: 
+
+  - role: experiencer
+    symbol: E
+    entry: 
+    meaning: 
+
   - entry: -an
     role: referent
     symbol: R
     meaning: location of an act, site
-
-  - entry: -an2
-    role: object
-    symbol: O
-    meaning: the entity towards which action is directed
